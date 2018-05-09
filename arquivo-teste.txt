@@ -1,1 +1,2 @@
 Testando git no workshop da Semana Atomica III
+Adicionando mais texto para modificar o arquivo
